@@ -87,6 +87,10 @@ h3 {
   color: #11999E;
 }
 
+.skillpara {
+  font-size: .8rem;
+}
+
 .skill-row {
   padding: 30px;
   margin: auto;
