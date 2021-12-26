@@ -61,14 +61,14 @@ h3 {
 
 .badminton {
   border-radius: 10%;
-  width: 40%;
+  width: 35%;
   float: left;
   margin-right: 30px;
 }
 
 .cycling {
   border-radius: 10%;
-  width: 40%;
+  width: 35%;
   float: right;
   margin-left: 30px;
 }
@@ -87,12 +87,17 @@ h3 {
   color: #11999E;
 }
 
+.skillheading {
+  font-size: 2rem;
+  margin-top: 0;
+}
+
 .skillpara {
   font-size: .8rem;
 }
 
 .skill-row {
-  padding: 30px;
+  padding: 40px;
   margin: auto;
   margin-top: 100px;
   margin-bottom: 100px;
